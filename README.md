@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Deax
+- 👀 I’m interested in Discord Bot's 
+- 🌱 I’m currently learning Html And Css
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
